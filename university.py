@@ -1,0 +1,2 @@
+import whois
+print w
